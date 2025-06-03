@@ -1,2 +1,1 @@
-# blackboxai-1742356607403
-Built by https://www.blackbox.ai
+# BlackBox AI Project\n\nInitial setup and configuration for the BlackBox AI project.
